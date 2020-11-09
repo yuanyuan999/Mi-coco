@@ -1,0 +1,3 @@
+print("dasdasdasdasdsadasdadadadsadadasdndandnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn\
+dasdasdndddd\
+ddddd")
